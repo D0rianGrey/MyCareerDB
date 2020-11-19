@@ -16,5 +16,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://admin-stage.softserveinc.com:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="TEST" uuid="621f1125-763d-42dd-a590-4f5f391c36a1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://admin-test.projects.local:3306</jdbc-url>
+    </data-source>
   </component>
 </project>
