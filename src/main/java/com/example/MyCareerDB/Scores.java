@@ -29,7 +29,8 @@ public class Scores {
         if (practice_Passing_Score != null) {
             System.out.println("'Practice Passing Score' field = " + practice_Passing_Score);
             System.out.println("Theory Passing Score is required");
-            System.out.println(theory_Passing_Score_Validation);
+            String theory_passing_score_validation = theory_Passing_Score_Validation;
+            System.out.println(theory_passing_score_validation);
         } else {
             System.out.println("'Practice Passing Score' field is empty");
         }
