@@ -1,14 +1,14 @@
 {
-  "firstName": "Yevhenii",
-  "lastName": "Tykhonov",
+  "firstName": "Ievhenii",
+  "lastName": "Vakerin",
   "course": {
-    "author": "Yevhenii Tykhonov",
-    "title": "Java Professional",
-    "description": "For everyone"
+    "author": "Ievhenii Vakerin",
+    "title": "QC",
+    "description": "Test_Description"
   },
   "personalContacts": [
-    "https://itvdn.com/ru/video/java-professional",
-    "https://www.facebook.com/yevheniitykhonov",
-    "https://www.instagram.com/yevheniitykhonov"
+    "https://www.instagram.com/?hl=uk",
+    "https://www.facebook.com/EugeneVakeryn",
+    "https://www.google.com.ua/"
   ]
 }
