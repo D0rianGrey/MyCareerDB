@@ -1,0 +1,20 @@
+s:212521:"{"SourceSystemID":"MyCareer:10279"
+"SourceSystem":"My Career"
+"FirstName":"EugeneRegress"
+"LastName":"VakerinRegress"
+"Email":"regress@stage.ua"
+"Phone":"+38(050)-631-32-13"
+"ConsentRequestDate":"2021-01-04T16:26:58+02:00"
+"ConsentSubmitDate":"2021-01-04T16:26:58+02:00"
+"ConsentPolicyRead":true
+"ConsentDataProcessing":true
+"ConsentMarketingNotifications":true
+"VacancyID":57603
+"VacancyLink":"https:\/\/career-stage.softserveinc.com\/vacancy\/middle-net-software-engineer-44010"
+"VacancyRecruiterEmployeeID":131529
+"InfoSource":"DOU"
+"CampaignID":111
+"CampaignName":"campaign-name1"
+"CampaignTrackingCookieSetDate":"2021-01-04T16:25:47+02:00"
+"ProcessingSLA":5
+"AttachmentFileName":"1609770418.pdf"
